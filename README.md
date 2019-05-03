@@ -1,1 +1,1 @@
-# docker-install-centos
+# This playbook installs docker and docke-compose on centos
